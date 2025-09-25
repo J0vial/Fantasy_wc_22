@@ -1,2 +1,8 @@
 # Fantasy_wc_22
-This is fantasy premiusr football website. To run this website you have to import all the sql file in xampp database then you can view this webiste by index.php.From this website you can create a team and play with points.You will have 11 players of different segments.From that your total points will be upgrade by players total avg points.
+Developed a web-based fantasy football application using PHP and MySQL.
+
+Configured and deployed on XAMPP by importing SQL files into the database and running via index.php.
+
+Enabled users to create teams of 11 players across different segments.
+
+Implemented a dynamic points system where team scores update automatically based on players’ average points.
